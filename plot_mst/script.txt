@@ -1,0 +1,1 @@
+plot "0.dat" with points, "1.dat" with points, "2.dat" with points, 
