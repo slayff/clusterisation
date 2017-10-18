@@ -2,7 +2,7 @@
 simple cpp code implementing MST and K-Means clusterisation algorithms
 Folders contains the following data:
 * plot_base - raw data of generated points
-* plot_initial - correct generated clusters
+* plot_initial - correct (as generated) clusters
 * plot_mst - data computed by Kruskal's MST algorithm
 * plot_kmeans - data computed by K-Means algorithm
 
