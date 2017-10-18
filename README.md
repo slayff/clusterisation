@@ -1,5 +1,6 @@
 # clusterisation
-simple cpp code implementing MST and K-Means clusterisation algorithms
+simple cpp code implementing MST and K-Means <s>clusterisation</s> clustering algorithms
+
 Folders contains the following data:
 * plot_base - raw data of generated points
 * plot_initial - correct (as generated) clusters
