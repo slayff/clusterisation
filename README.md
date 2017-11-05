@@ -1,4 +1,4 @@
-# clusterisation
+# clustering
 simple cpp code implementing MST and K-Means <s>clusterisation</s> clustering algorithms
 
 Folders contains the following data:
